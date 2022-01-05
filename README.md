@@ -36,7 +36,7 @@ Endi esa serverni ishga tushirib oling:
 npm start
 ```
 
-Browserda `localhost:3000` url iga kirib dasturlashni boshlang.
+Browserda `localhost:3000` linkiga kirib dasturlashni boshlang.
 
 ## Manbalar
 
